@@ -2980,22 +2980,27 @@ const HeadingComponent1 = ()=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _jsxD
         children: [
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 32,
+                lineNumber: 33,
                 columnNumber: 11
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h4", {
                 children: " this is the heading component and it is my first component "
             }, void 0, false, {
                 fileName: "App.js",
-                lineNumber: 33,
+                lineNumber: 34,
                 columnNumber: 10
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent, {}, void 0, false, {
+                fileName: "App.js",
+                lineNumber: 36,
+                columnNumber: 11
             }, undefined)
         ]
     }, void 0, true);
 _c1 = HeadingComponent1;
 root.render(/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)(HeadingComponent1, {}, void 0, false, {
     fileName: "App.js",
-    lineNumber: 38,
+    lineNumber: 41,
     columnNumber: 17
 }, undefined));
 var _c, _c1;

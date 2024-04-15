@@ -23,6 +23,7 @@ const root = ReactDOM.createRoot(document.querySelector("#root"));
    const HeadingComponent = ()=>{
     return (
          <h1> this is the heading component and it is my first component  </h1>
+
     )
    }
 
@@ -31,6 +32,8 @@ const root = ReactDOM.createRoot(document.querySelector("#root"));
     <>
           <HeadingComponent/>
          <h4> this is the heading component and it is my first component </h4>
+
+         {<HeadingComponent/>}  
     </>
          
     )
